@@ -9,7 +9,7 @@
 ![image alt](https://github.com/futurier/ftr/blob/main/social_discord.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/social_tg.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/social_x.png?raw=true)
-![image alt]()
+![image alt](https://github.com/futurier/ftr/blob/main/logo1.jpg?raw=true)
 
 
 
