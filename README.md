@@ -9,6 +9,6 @@
 ![image alt](https://github.com/futurier/ftr/blob/main/social_discord.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/social_tg.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/social_x.png?raw=true)
-![image alt]()
+![image alt](https://raw.githubusercontent.com/futurier/ftr/fb5069141ee79ad5df17e67b61a000c722c92d7d/tok.svg)
 ![image alt]()
 
