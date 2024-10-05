@@ -15,4 +15,4 @@
 ![image alt](https://github.com/futurier/ftr/blob/main/partners/dex.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/partners/partner.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/partners/pink.png?raw=true)
-
+![image alt](https://github.com/futurier/ftr/blob/main/logo1.png?raw=true)
