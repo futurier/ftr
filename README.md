@@ -20,3 +20,4 @@
 ![image alt](https://github.com/futurier/ftr/blob/main/assets/pancakeswap1.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/assets/poocoin.png?raw=true)
 ![image alt](https://github.com/futurier/ftr/blob/main/assets/red_flag.png?raw=true)
+![image alt](https://github.com/futurier/ftr/blob/main/assets/bsc.png?raw=true)
